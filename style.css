@@ -1,0 +1,9 @@
+body{
+    background-image: url("plm2.jpg");
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+    margin: 30px 0;
+}
